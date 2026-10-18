@@ -1,6 +1,5 @@
 # Proiect-PI
 
-###Literatura de specialitate consultată
 | Nr. | Autor(i) / An | Titlul articolului / proiectului | Aplicație / Domeniu | Tehnologii utilizate | Metodologie / Abordare | Rezultate | Limitări | Comentarii suplimentare |
 |---|---|---|---|---|---|---|---|---|
 | 1 | Insiya Rizvi, Sayma Shaikh, Dr. Jasbir Kaur, Prof. Ifrah Kampoo, Prof. Sandhya Thakkar / 2026 | [AttendAI: Automated Attendance Detection](https://www.ijert.org/attendai-automated-attendance-detection-ijertv15is060109) | Automatizarea prezenței din foi scanate | OCR/HTR, procesarea imaginilor, potrivirea numelor | Se preprocesează imaginea, se extrage textul și se asociază numele cu lista de studenți. | Prezintă un flux de automatizare a prezenței din documente încărcate. | Poate necesita verificare manuală pentru scris ilizibil sau nume asemănătoare. | Foarte apropiată de tema proiectului; verifică autorii și detaliile bibliografice pe pagina editorului. |
