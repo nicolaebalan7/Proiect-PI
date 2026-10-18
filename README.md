@@ -1,4 +1,6 @@
-# Proiect-PI
+### Proiect PI -Prezentare
+
+# Literatura de specialitate consultată
 
 | Nr. | Autor(i) / An | Titlul articolului / proiectului | Aplicație / Domeniu | Tehnologii utilizate | Metodologie / Abordare | Rezultate | Limitări | Comentarii suplimentare |
 |---|---|---|---|---|---|---|---|---|
